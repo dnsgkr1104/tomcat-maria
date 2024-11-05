@@ -1,6 +1,0 @@
-apt update
-chmod 755 install-docker.sh 
-./install-docker.sh
-apt update
-chmod 666 /var/run/docker
-apt install -y docker-compose
